@@ -25,3 +25,6 @@ DerivedData/
 
 ## Gcc Patch
 /*.gcno
+
+##Added from untracked list
+/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
